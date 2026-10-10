@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**amirazar03/amirazar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi im amir  
 
-Here are some ideas to get you started:
+my coding languages << python  &  c  &  c++  &  pineedit(tradingview)  &  mq5(metatrader5)  >> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+languages i know << farsi & turkish & dutch & russian & korean & jp >>
+
+
+
+
+Fun fact about me :
+  1. coffee ❌ just TEA ✅ (*^▽^*)
+  2. i love cats 🐈
